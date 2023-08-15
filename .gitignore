@@ -1,5 +1,4 @@
 .DS_Store
-.vscode/
 *.sh
 *.swp
 *.env
@@ -11,3 +10,7 @@ bin
 cmd/server/tmp
 tmp
 fly.toml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
